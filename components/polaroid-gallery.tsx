@@ -4,12 +4,12 @@ import { motion } from "framer-motion"
 import Image from "next/image"
 
 const photos = [
-  { id: 1, src: "/polo/02.jpeg", caption: "Moment", rotation: -3, size: "large" },
-  { id: 2, src: "/polo/03.jpeg", caption: "Fun Times", rotation: 4, size: "medium" },
-  { id: 3, src: "/polo/04.jpeg", caption: "Memories", rotation: -2, size: "small" },
-  { id: 4, src: "/polo/05.jpeg", caption: "Good Times", rotation: 5, size: "medium" },
-  { id: 5, src: "/polo/06.JPG", caption: "Cherish", rotation: -4, size: "wide" },
-  { id: 6, src: "/polo/07.jpg", caption: "Together", rotation: 3, size: "medium" },
+  { id: 1, src: "/polo02.jpeg", caption: "Moment", rotation: -3, size: "large" },
+  { id: 2, src: "/polo03.jpeg", caption: "Fun Times", rotation: 4, size: "medium" },
+  { id: 3, src: "/polo04.jpeg", caption: "Memories", rotation: -2, size: "small" },
+  { id: 4, src: "/polo05.jpeg", caption: "Good Times", rotation: 5, size: "medium" },
+  { id: 5, src: "/polo06.JPG", caption: "Cherish", rotation: -4, size: "wide" },
+  { id: 6, src: "/polo07.jpg", caption: "Together", rotation: 3, size: "medium" },
   { id: 7, src: "/polo/20250405_184413.jpg", caption: "Memory Lane", rotation: -5, size: "large" },
   { id: 8, src: "/polo/Groupphoto.jpg", caption: "Group Photo", rotation: 2, size: "wide" },
   { id: 9, src: "/polo/IMG_3410.jpg", caption: "Smile", rotation: -3, size: "medium" },
